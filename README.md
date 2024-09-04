@@ -1,4 +1,4 @@
-Hi, would you like to collaborate on development? If yes, please connect with me on LinkedIn
+
 
 
 
@@ -11,6 +11,7 @@ Hi, would you like to collaborate on development? If yes, please connect with me
 - 📫 How to reach me: **kalkidanbehailu55@gmail.com**
 - 
 <h3 align="left">Connect with me:</h3>
+Hi, would you like to collaborate on development? If yes, please connect with me on LinkedIn
 <p align="left">
   <a href="https://linkedin.com/in/kalkidan-behailu-989144318" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
  
