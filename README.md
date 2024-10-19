@@ -57,9 +57,6 @@
    <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">📫 You can reach me at: <a href="mailto:kalkidanbehailu55@gmail.com" style="color: #0077B5; text-decoration: underline; font-weight: bold;"> kalkidanbehailu55@gmail.com</a></p>
 <div style="position: relative; display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   
-    <a href="https://www.linkedin.com/in/kalkidan-behailu-989144318/" target="_blank" rel="noreferrer" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
  
 </div>
 
