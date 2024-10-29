@@ -48,15 +48,15 @@
 
 
  <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; margin-top: 20px;">🌐 Let's connect:</p>
-   <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">📫 You can reach me at: <a href="mailto:kalkidanbehailu55@gmail.com" style="color: #0077B5; text-decoration: underline; font-weight: bold;"> kalkidanbehailu55@gmail.com</a></p>
-<div style="position: relative; display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-  <h3 align="left">🏆 Trophies:</h3>
+ <h3 align="left">🤝 Let's Connect:</h3>
 <p align="left">
-  <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KALU56" alt="Profile Trophies" />
+  <a href="https://www.linkedin.com/in/kalkidan-behailu-989144318" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
 </p>
+   <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">📫 You can reach me at: <a href="mailto:kalkidanbehailu55@gmail.com" style="color: #0077B5; text-decoration: underline; font-weight: bold;"> kalkidanbehailu55@gmail.com</a></p>
+
 
 
  ## 📊 Coding Activity at LeetCode   <!-- LeetCode Badge with Smart Positioning -->
@@ -72,13 +72,7 @@
 
 </div>
 
-<h3 align="left">🤝 Let's Connect:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kalkidan-behailu-989144318" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
 
-</p>
  
 </div>
 
