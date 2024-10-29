@@ -59,11 +59,17 @@
 </p>
 
 
- 
-<div align="center">
+ ## 📊 Coding Activity at LeetCode   <!-- LeetCode Badge with Smart Positioning -->
+  <a href="https://leetcode.com/u/kaluliluya/" target="_blank" rel="noreferrer" style="position: absolute; top: 10px; right: 10px;">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+  </a>
+<div align="center" style="position: relative; display: inline-block;">
 
-  ![Leetcode Stats](https://leetcode.com/u/kaluliluya?ext=heatmap&theme=dark&width=900&height=400)
-  
+  <!-- LeetCode Heatmap -->
+  <img src="https://leetcard.jacoblin.cool/kaluliluya?ext=heatmap&theme=dark&width=900&height=400" alt="Leetcode Stats" />
+
+
+
 </div>
 
 <h3 align="left">🤝 Let's Connect:</h3>
