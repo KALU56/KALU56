@@ -57,6 +57,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=KALU56" alt="Profile Trophies" />
   </a>
 </p>
+ ## 📊 Coding Activity
+<div align="center">
+
+  ![Leetcode Stats](https://leetcode.com/u/kaluliluya/?ext=heatmap&theme=dark&width=900&height=400)
+  
+</div>
+
 <h3 align="left">🤝 Let's Connect:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kalkidan-behailu-989144318" target="_blank">
