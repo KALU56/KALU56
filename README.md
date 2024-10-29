@@ -57,9 +57,6 @@
 </p>
    <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">📫 You can reach me at: <a href="mailto:kalkidanbehailu55@gmail.com" style="color: #0077B5; text-decoration: underline; font-weight: bold;"> kalkidanbehailu55@gmail.com</a></p>
 
-
-
- ## 📊 Coding Activity at LeetCode   <!-- LeetCode Badge with Smart Positioning -->
   <a href="https://leetcode.com/u/kaluliluya/" target="_blank" rel="noreferrer" style="position: absolute; top: 10px; right: 10px;">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
