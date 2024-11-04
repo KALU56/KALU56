@@ -4,7 +4,7 @@
 
  <td style="text-align: center; padding: 20px; border: none;">
             <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTM0cjd2Zzd5c2ZsMDM4a24zMWU1a3N2MWhibnF5Y2FxOWRtaWVqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" 
-                 width="800" 
+                 width="600" 
                  style="margin-bottom: 10px; border-radius: 10px;" />
         </td>
 
