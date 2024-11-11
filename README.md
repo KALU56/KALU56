@@ -2,12 +2,7 @@
 
 
 
- <td style="text-align: center; padding: 20px; border: none;">
-            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTM0cjd2Zzd5c2ZsMDM4a24zMWU1a3N2MWhibnF5Y2FxOWRtaWVqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" 
-                 width="600" 
-                 style="margin-bottom: 10px; border-radius: 10px;" />
-        </td>
-
+ 
 <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
     <blockquote style="text-align: center; font-size: 24px; font-weight: bold; color: #555; border-left: 5px solid #0077B5; padding-left: 10px; margin: 20px 0; font-style: italic; background-color: #f9f9f9; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         Passionate web developer and aspiring influencer 🌍 and lover of drawing
