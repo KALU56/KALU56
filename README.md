@@ -20,10 +20,6 @@
 [![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KALU56&theme=github-compact)](https://github.com/KALU56/github-readme-activity-graph)
 
 
-<div style="text-align: center; margin: 20px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://dummyimage.com/600x100/000/fff&text=Commitment+is+what+transforms+a+promise+into+reality" alt="Commitment Quote" style="border-radius: 10px;" />
-
-</div>
 
 
 
