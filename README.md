@@ -14,18 +14,7 @@
 
 
 
-<div align="center" style="background-color:black;">
-  <table style="background-color:black; border-collapse:collapse;">
-    <tr>
-      <td style="background-color:black;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KALU56&theme=black-ice&hide_border=true" alt="GitHub Streak" />
-      </td>
-      <td style="background-color:black;">
-        <img src="https://github-readme-stats.vercel.app/api?username=KALU56&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 
 [![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KALU56&theme=github-compact)](https://github.com/KALU56/github-readme-activity-graph)
