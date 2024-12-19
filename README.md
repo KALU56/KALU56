@@ -1,13 +1,5 @@
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KALU56&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/KALU56)
-<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
-
-
-
-   <blockquote style="text-align: center; font-size: 24px; font-weight: bold; color: #555; border-left: 5px solid #0077B5; padding-left: 10px; margin: 20px 0; font-style: italic; background-color: #f9f9f9; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-        Passionate web developer and aspiring influencer 🌍
-    </blockquote>
  
 
 
@@ -19,7 +11,7 @@
 
 | My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![kalkidan](https://github-readme-streak-stats.herokuapp.com/?user=KALU56&theme=dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALU56&show_icons=true&theme=dark&hide_title=true) |  ![kalkidan Git Status](https://github-readme-stats.vercel.app/api?username=KALU56&show_icons=true&theme=dark&hide_title=true&count_private=true) |
+| ![kalkidan](https://github-readme-streak-stats.herokuapp.com/?user=KALU56&theme=dark)|  ![kalkidan Git Status](https://github-readme-stats.vercel.app/api?username=KALU56&show_icons=true&theme=dark&hide_title=true&count_private=true) |
 </div>
 
 
