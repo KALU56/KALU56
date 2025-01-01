@@ -33,8 +33,6 @@
 
 
 
-[![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KALU56&theme=github-compact)](https://github.com/KALU56/github-readme-activity-graph)
-
 
 
 
