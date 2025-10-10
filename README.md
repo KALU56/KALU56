@@ -26,7 +26,7 @@
         Passionate web developer and aspiring influencer 🌍
     </blockquote>
     
-Want to know more? Check out my [resume](file:///home/kal/Downloads/kalkidan%20behailu.pdf) ! </h4>
+Want to know more? Check out my [resume](https://docs.google.com/document/d/1aQjFiVVcPdqQa3qfYs-m-pVn3cNqEfYFo2hBNPZEu9s/edit?tab=t.0) ! </h4>
 
 
 
@@ -35,7 +35,7 @@ Want to know more? Check out my [resume](file:///home/kal/Downloads/kalkidan%20b
 
 | My github statistics                                                                                                                                                  | Streaks                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Yeabsira](https://github-readme-streak-stats.herokuapp.com/?user=KALU56-B&theme=dark) | ![Yeabsira Git Status](https://github-readme-stats.vercel.app/api?username=KALU56-B&show_icons=true&theme=dark&hide_title=true&count_private=true) |
+| ![kalkidan](https://github-readme-streak-stats.herokuapp.com/?user=KALU56-B&theme=dark) | ![kalkidan Git Status](https://github-readme-stats.vercel.app/api?username=KALU56-B&show_icons=true&theme=dark&hide_title=true&count_private=true) |
 
 
 
