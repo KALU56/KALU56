@@ -28,7 +28,7 @@
 
 | GitHub Streak 🌟 | GitHub Stats 📈 |
 |-----------------|----------------|
-| ![kalkidan](https://github-readme-streak-stats.herokuapp.com/?user=KALU56-B&theme=dark) | ![kalkidan Git Status](https://github-readme-stats.vercel.app/api?username=KALU56-B&show_icons=true&theme=dark&hide_title=true&count_private=true) |
+| ![kalkidan](https://github-readme-streak-stats.herokuapp.com/?user=KALU56&theme=dark) | ![kalkidan Git Status](https://github-readme-stats.vercel.app/api?username=KALU56&show_icons=true&theme=dark&hide_title=true&count_private=true) |
 
 ---
 
